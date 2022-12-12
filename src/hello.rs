@@ -6,7 +6,7 @@ use std::fs::File;
 use std::io::{self, stdin, Read};
 use std::io::{BufRead, BufReader, ErrorKind, Write};
 
-fn hello() {
+fn main() {
     let mut a = 10;
     println!("{}", a);
     //入力を格納する変数を作成

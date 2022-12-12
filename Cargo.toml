@@ -7,3 +7,131 @@ edition = "2021"
 
 [dependencies]
 rand ="0.8.5"
+
+[[bin]]
+name = "main1"
+path = "src/about_trait.rs"
+
+[[bin]]
+name = "main2"
+path = "src/array.rs"
+
+[[bin]]
+name = "main3"
+path = "src/cloosure.rs"
+
+[[bin]]
+name = "main4"
+path = "src/enzan.rs"
+
+[[bin]]
+name = "main5"
+path = "src/function.rs"
+
+[[bin]]
+name = "main6"
+path = "src/generic.rs"
+
+[[bin]]
+name = "main7"
+path = "src/generics_where.rs"
+
+[[bin]]
+name = "main8"
+path = "src/generics.rs"
+
+[[bin]]
+name = "main9"
+path = "src/hash.rs"
+
+[[bin]]
+name = "main10"
+path = "src/hello.rs"
+
+[[bin]]
+name = "main11"
+path = "src/if.rs"
+
+[[bin]]
+name = "main12"
+path = "src/iter.rs"
+
+[[bin]]
+name = "main13"
+path = "src/match.rs"
+
+[[bin]]
+name = "main14"
+path = "src/matome.rs"
+
+[[bin]]
+name = "main15"
+path = "src/mojiretu.rs"
+
+[[bin]]
+name = "main16"
+path = "src/pointer.rs"
+
+[[bin]]
+name = "main17"
+path = "src/readFile.rs"
+
+[[bin]]
+name = "main18"
+path = "src/rekyogata.rs"
+
+[[bin]]
+name = "main19"
+path = "src/saiki.rs"
+
+[[bin]]
+name = "main20"
+path = "src/string.rs"
+
+[[bin]]
+name = "main21"
+path = "src/struct_array.rs"
+
+[[bin]]
+name = "main22"
+path = "src/struct.rs"
+
+[[bin]]
+name = "main23"
+path = "src/syakuyou.rs"
+
+[[bin]]
+name = "main24"
+path = "src/syoyuuken.rs"
+
+[[bin]]
+name = "main25"
+path = "src/thread_bank.rs"
+
+[[bin]]
+name = "main26"
+path = "src/thread.rs"
+
+[[bin]]
+name = "main27"
+path = "src/trait_struct.rs"
+
+[[bin]]
+name = "main28"
+path = "src/trait.rs"
+
+[[bin]]
+name = "main29"
+path = "src/tuple.rs"
+
+[[bin]]
+name = "main30"
+path = "src/unsafe.rs"
+
+[[bin]]
+name = "main31"
+path = "src/useMod.rs"
+
+[[bin]]
+name = "main32"
+path = "src/vec.rs"
