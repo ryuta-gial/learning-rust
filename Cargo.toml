@@ -135,3 +135,16 @@ path = "src/useMod.rs"
 [[bin]]
 name = "main32"
 path = "src/vec.rs"
+
+[[bin]]
+name = "main33"
+path = "src/iterator.rs"
+
+[[bin]]
+name = "main34"
+path = "src/match_fizzbuzz.rs"
+
+[[bin]]
+name = "main35"
+path = "src/array_push_string.rs"
+

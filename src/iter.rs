@@ -13,6 +13,7 @@ fn main() {
     for val in arr_it.iter() {
         println!("{}", val);
     }
+    //ベクターのイテレータ
     let mut iter1 = arr_it.iter();
     println!("1st : {:?}", iter1.next());
 }
